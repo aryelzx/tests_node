@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "eslint": "^8.50.0"
+  },
+  "dependencies": {
+    "vitest": "^0.34.5"
+  }
+}
